@@ -1,5 +1,8 @@
 # Achat
 
+Exercice : notifier tous les éléments abonnés d'un changement de données au sein dun service.
+Utilisation de BehaviorSubject dans PanierService
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
 
 ## Development server
